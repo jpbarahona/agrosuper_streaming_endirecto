@@ -3,7 +3,7 @@
             title="EnDirecto"
             description="EnDirecto"
             author="Juan-Pablo Barahona"
-            height="400px" >
+            height="500"  >
     </ModulePrefs>
     <UserPref
         name="mycolor"
