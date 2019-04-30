@@ -1,10 +1,9 @@
 <Module specificationVersion='2'>
     <ModulePrefs
-            title="Twitter"
-            description="Twitter prueba"
-            author="Twitter PHR JP"
-            thumbnail="https://www.importancia.org/wp-content/uploads/1-360x360.png"
-            height="800" >
+            title="EnDirecto"
+            description="EnDirecto"
+            author="Juan-Pablo Barahona"
+            height="360" >
     </ModulePrefs>
     <UserPref
         name="mycolor"
